@@ -77,6 +77,10 @@ To clean up and remove all resources provisioned by this module, run:
 terraform destroy
 ```
 
+# Documentation
+
+I wrote more about setting up Terraform, the module and its environment [here](https://blog.barbetta.me/posts/terraform-oci-pihole/).
+
 # License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
