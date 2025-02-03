@@ -29,7 +29,7 @@ This Terraform module provisions an Oracle Cloud Infrastructure (OCI) Virtual Ma
    region               = "us-ashburn-1"
    compartment_id       = "ocid1.tenancy.oc1..uniqueID"
    availability_domain  = "uPHd:US-ASHBURN-AD-2"
-   ubuntu_image_ocid    = "ocid1.image.oc1.iad.aaaaaaaa3ye6a7m4sf5kvpqp2n5qwuorjnomdsdwv2udi74owkpveaepw7lq"
+   ubuntu_image_ocid    = "ocid1.image.oc1.iad.uniqueID"
    public_key_path      = "~/.ssh/ubuntu-pihole.key.pub"
    private_key_path     = "~/.ssh/ubuntu-pihole.key"
    ```
